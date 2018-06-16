@@ -1,0 +1,14 @@
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.deps.json
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.json
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.pdb
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\bin\Debug\netcoreapp2.0\GameEngine.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\bin\Debug\netcoreapp2.0\GameEngine.pdb
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Project\Tests\UnitTestProjects\GameEngine\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.pdb
